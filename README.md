@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=adyfas&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F136950286%3Fu%3Dbffcdbe7047b1fde89026438b44508affe2a2b25%26v%3D4" alt="adyfas hero visual" />
+</p>
+
+
 # About Me:
 Hi there! 👋  <br>I'm **Adyfas**,  a passionate **Fullstack Web Developer** who loves crafting stunning websites and applications .  <br><br>**About Me:**  <br>-  Experienced in **Frontend** & **Backend Development**.  <br>-  I have a knack for **designing modern, user-friendly interfaces**.  <br>-  Skilled in technologies like **React, Next.js, Node.js, and more**.  <br>-  Currently exploring the latest in **web development trends**.  <br><br>**Fun Facts:**  <br>-  I enjoy turning ideas into reality with **code and creativity**.  <br>-  When I'm not coding, you'll find me capturing moments or editing visuals.  <br><br>**Get in Touch:**  <br>-  Let's collaborate! Reach me at **[contact.adyfas@gmail.com]**  <br>-  Follow my journey on **Instagram @adyfas.ver**!  <br><br>Happy coding! 
 
